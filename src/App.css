@@ -1,0 +1,21 @@
+html {
+  color: #1d2a34;
+}
+
+body {
+  background-color: #a6c2d3;
+}
+
+.App-header {
+  background-color: #5485a3;
+  padding: 20px;
+}
+
+.App-navbar {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: flex-end;
+  padding-right: 20px;
+  text-decoration: none;
+}
