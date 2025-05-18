@@ -3,12 +3,13 @@ html {
 }
 
 body {
-  background-color: #a6c2d3;
+  background-color: #75a1bb;
 }
 
 .App-header {
   background-color: #5485a3;
-  padding: 20px;
+  width: 100%;
+  height: 95vh;
 }
 
 .App-navbar {
@@ -18,4 +19,12 @@ body {
   justify-content: flex-end;
   padding-right: 20px;
   text-decoration: none;
+  height: 5vh;
+  align-items: center;
+  background-color: #406a86;
+  color: #cfdee8;
+}
+
+.App-main {
+  height: 100vh;
 }

@@ -73,3 +73,7 @@ picture {
   max-width: 100%;
   display: block;
 }
+
+body::-webkit-scrollbar {
+  width: 0px;
+}
